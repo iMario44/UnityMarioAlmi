@@ -346,7 +346,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &27438894
 Animator:
@@ -1475,7 +1475,7 @@ Transform:
   m_Children:
   - {fileID: 1890732381}
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &125373584
 BoxCollider2D:
@@ -1831,7 +1831,7 @@ Transform:
   m_LocalScale: {x: 11.175, y: 6.7221093, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &155237044
 BoxCollider2D:
@@ -11452,7 +11452,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1251088539
 PrefabInstance:
@@ -19132,7 +19132,7 @@ RectTransform:
   m_Children:
   - {fileID: 1885775474}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -19399,6 +19399,63 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c434c300b0bc27a4db37c5e8dbdb3f04, type: 3}
+--- !u!1001 &2064469834
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1191202426592207280, guid: 320c43b1f27a6934591350a4b6ac0ad2, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1191202426592207280, guid: 320c43b1f27a6934591350a4b6ac0ad2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -65.1167
+      objectReference: {fileID: 0}
+    - target: {fileID: 1191202426592207280, guid: 320c43b1f27a6934591350a4b6ac0ad2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.679383
+      objectReference: {fileID: 0}
+    - target: {fileID: 1191202426592207280, guid: 320c43b1f27a6934591350a4b6ac0ad2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1191202426592207280, guid: 320c43b1f27a6934591350a4b6ac0ad2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1191202426592207280, guid: 320c43b1f27a6934591350a4b6ac0ad2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1191202426592207280, guid: 320c43b1f27a6934591350a4b6ac0ad2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1191202426592207280, guid: 320c43b1f27a6934591350a4b6ac0ad2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1191202426592207280, guid: 320c43b1f27a6934591350a4b6ac0ad2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1191202426592207280, guid: 320c43b1f27a6934591350a4b6ac0ad2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1191202426592207280, guid: 320c43b1f27a6934591350a4b6ac0ad2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1191202426592207293, guid: 320c43b1f27a6934591350a4b6ac0ad2, type: 3}
+      propertyPath: m_Name
+      value: nube (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 320c43b1f27a6934591350a4b6ac0ad2, type: 3}
 --- !u!1001 &2065870958
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19873,7 +19930,7 @@ Transform:
   m_Children:
   - {fileID: 1062177475}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2110099870
 BoxCollider2D:
