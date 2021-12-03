@@ -1,0 +1,3420 @@
+fileFormatVersion: 2
+guid: 193bda7e552e45a408e6138eff2cf7fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5203516710216604561
+    second: NESMarioLuigi_0
+  - first:
+      213: -41307266058415159
+    second: NESMarioLuigi_1
+  - first:
+      213: -649642077952755614
+    second: NESMarioLuigi_2
+  - first:
+      213: -3874018963263499620
+    second: NESMarioLuigi_3
+  - first:
+      213: -1839012226671859496
+    second: NESMarioLuigi_4
+  - first:
+      213: 3348513938080811267
+    second: NESMarioLuigi_5
+  - first:
+      213: 6188465758314989100
+    second: NESMarioLuigi_6
+  - first:
+      213: 3059234136579402693
+    second: NESMarioLuigi_7
+  - first:
+      213: -4190446172150020033
+    second: NESMarioLuigi_8
+  - first:
+      213: 9164556798434606976
+    second: NESMarioLuigi_9
+  - first:
+      213: 1308514236813747643
+    second: NESMarioLuigi_10
+  - first:
+      213: 6878600495711938487
+    second: NESMarioLuigi_11
+  - first:
+      213: 2400181403345529857
+    second: NESMarioLuigi_12
+  - first:
+      213: 4099326142323142542
+    second: NESMarioLuigi_13
+  - first:
+      213: -4268140526736393009
+    second: NESMarioLuigi_14
+  - first:
+      213: 3485104142071791328
+    second: NESMarioLuigi_15
+  - first:
+      213: 8599175016255735123
+    second: NESMarioLuigi_16
+  - first:
+      213: 2167966639919065607
+    second: NESMarioLuigi_17
+  - first:
+      213: 2839410791383275466
+    second: NESMarioLuigi_18
+  - first:
+      213: 2557214732262025653
+    second: NESMarioLuigi_19
+  - first:
+      213: 4244483006227853852
+    second: NESMarioLuigi_20
+  - first:
+      213: -5094565155517461646
+    second: NESMarioLuigi_21
+  - first:
+      213: 8652064023504057422
+    second: NESMarioLuigi_22
+  - first:
+      213: 6066576437963539493
+    second: NESMarioLuigi_23
+  - first:
+      213: 656321683054234084
+    second: NESMarioLuigi_24
+  - first:
+      213: 1944529200974569354
+    second: NESMarioLuigi_25
+  - first:
+      213: 5083728288158438948
+    second: NESMarioLuigi_26
+  - first:
+      213: -3784417916120539596
+    second: NESMarioLuigi_27
+  - first:
+      213: 237336971987267813
+    second: NESMarioLuigi_28
+  - first:
+      213: -2755661309107155635
+    second: NESMarioLuigi_29
+  - first:
+      213: -4316031199600673892
+    second: NESMarioLuigi_30
+  - first:
+      213: -4167961525936551999
+    second: NESMarioLuigi_31
+  - first:
+      213: 4685553314998437821
+    second: NESMarioLuigi_32
+  - first:
+      213: 3350014183549951349
+    second: NESMarioLuigi_33
+  - first:
+      213: -2015989930020095856
+    second: NESMarioLuigi_34
+  - first:
+      213: -8336226224882578152
+    second: NESMarioLuigi_35
+  - first:
+      213: 1221659875975589212
+    second: NESMarioLuigi_36
+  - first:
+      213: -1646862407270056608
+    second: NESMarioLuigi_37
+  - first:
+      213: 1677874625027959406
+    second: NESMarioLuigi_38
+  - first:
+      213: -2816535796739504583
+    second: NESMarioLuigi_39
+  - first:
+      213: 1708078204184933174
+    second: NESMarioLuigi_40
+  - first:
+      213: 3389901700028862792
+    second: NESMarioLuigi_41
+  - first:
+      213: 3200873669660381279
+    second: NESMarioLuigi_42
+  - first:
+      213: 8075970033555246548
+    second: NESMarioLuigi_43
+  - first:
+      213: 3104997736643140970
+    second: NESMarioLuigi_44
+  - first:
+      213: 4634897662598044906
+    second: NESMarioLuigi_45
+  - first:
+      213: -8837394907033022302
+    second: NESMarioLuigi_46
+  - first:
+      213: -6946631331172504947
+    second: NESMarioLuigi_47
+  - first:
+      213: -7279208343167730417
+    second: NESMarioLuigi_48
+  - first:
+      213: 8938283197985426442
+    second: NESMarioLuigi_49
+  - first:
+      213: -6102804973830083293
+    second: NESMarioLuigi_50
+  - first:
+      213: 7053289550507261342
+    second: NESMarioLuigi_51
+  - first:
+      213: -7588003778650282991
+    second: NESMarioLuigi_52
+  - first:
+      213: 7186009901325787284
+    second: NESMarioLuigi_53
+  - first:
+      213: 1440279427444491414
+    second: NESMarioLuigi_54
+  - first:
+      213: -3217225723610415482
+    second: NESMarioLuigi_55
+  - first:
+      213: -8551105094259727785
+    second: NESMarioLuigi_56
+  - first:
+      213: -715171755526411481
+    second: NESMarioLuigi_57
+  - first:
+      213: 5810543905967689965
+    second: NESMarioLuigi_58
+  - first:
+      213: 5360346898498023865
+    second: NESMarioLuigi_59
+  - first:
+      213: -5214232468889410548
+    second: NESMarioLuigi_60
+  - first:
+      213: -6069185535520317742
+    second: NESMarioLuigi_61
+  - first:
+      213: 3964180049743914177
+    second: NESMarioLuigi_62
+  - first:
+      213: 2047224493985493371
+    second: NESMarioLuigi_63
+  - first:
+      213: 6507835625080960008
+    second: NESMarioLuigi_64
+  - first:
+      213: 7718140215798628463
+    second: NESMarioLuigi_65
+  - first:
+      213: 7499818797680351329
+    second: NESMarioLuigi_66
+  - first:
+      213: 4961882843092961074
+    second: NESMarioLuigi_67
+  - first:
+      213: 1271355166362331259
+    second: NESMarioLuigi_68
+  - first:
+      213: -1576433159571290044
+    second: NESMarioLuigi_69
+  - first:
+      213: 5101536219042954886
+    second: NESMarioLuigi_70
+  - first:
+      213: 8194726802661546934
+    second: NESMarioLuigi_71
+  - first:
+      213: 7041978168489901223
+    second: NESMarioLuigi_72
+  - first:
+      213: 5066132590313884731
+    second: NESMarioLuigi_73
+  - first:
+      213: -6657735467923902943
+    second: NESMarioLuigi_74
+  - first:
+      213: -68944136720510476
+    second: NESMarioLuigi_75
+  - first:
+      213: 4277169164980307737
+    second: NESMarioLuigi_76
+  - first:
+      213: -4135431880580088170
+    second: NESMarioLuigi_77
+  - first:
+      213: -8833142879730106771
+    second: NESMarioLuigi_78
+  - first:
+      213: -2689840907331528137
+    second: NESMarioLuigi_79
+  - first:
+      213: -9209606034802015285
+    second: NESMarioLuigi_80
+  - first:
+      213: -9207633827896740140
+    second: NESMarioLuigi_81
+  - first:
+      213: 5218501084809417920
+    second: NESMarioLuigi_82
+  - first:
+      213: 5896280933135650027
+    second: NESMarioLuigi_83
+  - first:
+      213: -5922597786311635704
+    second: NESMarioLuigi_84
+  - first:
+      213: -7977768210775236674
+    second: NESMarioLuigi_85
+  - first:
+      213: -9086383886238332721
+    second: NESMarioLuigi_86
+  - first:
+      213: 5184615588283557276
+    second: NESMarioLuigi_87
+  - first:
+      213: -2771114644696212623
+    second: NESMarioLuigi_88
+  - first:
+      213: -6701463966532953007
+    second: NESMarioLuigi_89
+  - first:
+      213: 422186511017862866
+    second: NESMarioLuigi_90
+  - first:
+      213: 941922482262956269
+    second: NESMarioLuigi_91
+  - first:
+      213: 2134980265073157675
+    second: NESMarioLuigi_92
+  - first:
+      213: -6696364150739284666
+    second: NESMarioLuigi_93
+  - first:
+      213: 1539865393698301582
+    second: NESMarioLuigi_94
+  - first:
+      213: -5060173113667227287
+    second: NESMarioLuigi_95
+  - first:
+      213: 3685525181597707216
+    second: NESMarioLuigi_96
+  - first:
+      213: 131334926149091028
+    second: NESMarioLuigi_97
+  - first:
+      213: -4206832686852704054
+    second: NESMarioLuigi_98
+  - first:
+      213: 8949105587848205997
+    second: NESMarioLuigi_99
+  - first:
+      213: -3899626486233002086
+    second: NESMarioLuigi_100
+  - first:
+      213: 6657993922845050736
+    second: NESMarioLuigi_101
+  - first:
+      213: 1990466741460606507
+    second: NESMarioLuigi_102
+  - first:
+      213: -1195454434826969610
+    second: NESMarioLuigi_103
+  - first:
+      213: 3138314458950768411
+    second: NESMarioLuigi_104
+  - first:
+      213: -2222308108885631991
+    second: NESMarioLuigi_105
+  - first:
+      213: -1418151238438675595
+    second: NESMarioLuigi_106
+  - first:
+      213: -8501754720545303060
+    second: NESMarioLuigi_107
+  - first:
+      213: 7713514561536518566
+    second: NESMarioLuigi_108
+  - first:
+      213: 3018562334086599306
+    second: NESMarioLuigi_109
+  - first:
+      213: 3935351420394436067
+    second: NESMarioLuigi_110
+  - first:
+      213: -5967435065262513608
+    second: NESMarioLuigi_111
+  - first:
+      213: -3524899260386282569
+    second: NESMarioLuigi_112
+  - first:
+      213: -8819290569655472206
+    second: NESMarioLuigi_113
+  - first:
+      213: -4746827184644023709
+    second: NESMarioLuigi_114
+  - first:
+      213: -6678399029187189977
+    second: NESMarioLuigi_115
+  - first:
+      213: 1572522123045357286
+    second: NESMarioLuigi_116
+  - first:
+      213: -8197021313250444171
+    second: NESMarioLuigi_117
+  - first:
+      213: -5085787492677708365
+    second: NESMarioLuigi_118
+  - first:
+      213: 8465279420214446500
+    second: NESMarioLuigi_119
+  - first:
+      213: -735182141969850984
+    second: NESMarioLuigi_120
+  - first:
+      213: 6715087053955014170
+    second: NESMarioLuigi_121
+  - first:
+      213: 8110972069626111069
+    second: NESMarioLuigi_122
+  - first:
+      213: -116493388876690519
+    second: NESMarioLuigi_123
+  - first:
+      213: -6420323281504872984
+    second: NESMarioLuigi_124
+  - first:
+      213: 816312483500312807
+    second: NESMarioLuigi_125
+  - first:
+      213: -4619495215083476939
+    second: NESMarioLuigi_126
+  - first:
+      213: -5087517397476331770
+    second: NESMarioLuigi_127
+  - first:
+      213: 5045564126095513054
+    second: NESMarioLuigi_128
+  - first:
+      213: -5466434615632005691
+    second: NESMarioLuigi_129
+  - first:
+      213: 3331839366418511276
+    second: NESMarioLuigi_130
+  - first:
+      213: 6293527365396379216
+    second: NESMarioLuigi_131
+  - first:
+      213: -6287240588716691494
+    second: NESMarioLuigi_132
+  - first:
+      213: -6949184276337139764
+    second: NESMarioLuigi_133
+  - first:
+      213: 1121621880494255861
+    second: NESMarioLuigi_134
+  - first:
+      213: -5196368925444860355
+    second: NESMarioLuigi_135
+  - first:
+      213: 101706626553970758
+    second: NESMarioLuigi_136
+  - first:
+      213: 9092958181041149588
+    second: NESMarioLuigi_137
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NESMarioLuigi_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 242
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b1547e0ea963840800000000000000
+      internalID: 5203516710216604561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 242
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c312f7a24f3d6ff0800000000000000
+      internalID: -41307266058415159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 242
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268ba78d8f10cf6f0800000000000000
+      internalID: -649642077952755614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 242
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c925d814748bc3ac0800000000000000
+      internalID: -3874018963263499620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 242
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8af939f148a76e0800000000000000
+      internalID: -1839012226671859496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 242
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30940cc7faf487e20800000000000000
+      internalID: 3348513938080811267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 242
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26880db1d8d1e550800000000000000
+      internalID: 6188465758314989100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 242
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb609b1d35947a20800000000000000
+      internalID: 3059234136579402693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 243
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f384a9a886b88d5c0800000000000000
+      internalID: -4190446172150020033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 243
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ff59e2adb0f2f70800000000000000
+      internalID: 9164556798434606976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 243
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb523dcf3c6c82210800000000000000
+      internalID: 1308514236813747643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 243
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b76cbad4b2b57f50800000000000000
+      internalID: 6878600495711938487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_12
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 242
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ca8e605482f4120800000000000000
+      internalID: 2400181403345529857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 242
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fa4a3486bb3e830800000000000000
+      internalID: 4099326142323142542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccbd64fdc484c4c0800000000000000
+      internalID: -4268140526736393009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee7e6990c39d5030800000000000000
+      internalID: 3485104142071791328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355465ded18665770800000000000000
+      internalID: 8599175016255735123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ae5413c2a261e10800000000000000
+      internalID: 2167966639919065607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac79fc7221d976720800000000000000
+      internalID: 2839410791383275466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9afd2104d0d7320800000000000000
+      internalID: 2557214732262025653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_20
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12b4615ece67ea30800000000000000
+      internalID: 4244483006227853852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b8c44bbf77c49b0800000000000000
+      internalID: -5094565155517461646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_22
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 212
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4475e6836e421870800000000000000
+      internalID: 8652064023504057422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_23
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 212
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5244293d02fc03450800000000000000
+      internalID: 6066576437963539493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 211
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e985d8e719bb1900800000000000000
+      internalID: 656321683054234084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 211
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f9677710b5cfa10800000000000000
+      internalID: 1944529200974569354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_26
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 212
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426d94e71f70d8640800000000000000
+      internalID: 5083728288158438948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_27
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 212
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ed20cb4fb0b7bc0800000000000000
+      internalID: -3784417916120539596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 209
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e03e53f7b03b4300800000000000000
+      internalID: 237336971987267813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_29
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 209
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d4165b3ace1c9d0800000000000000
+      internalID: -2755661309107155635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_30
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 209
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b7c44cd706a14c0800000000000000
+      internalID: -4316031199600673892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_31
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 209
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c78e01331d6826c0800000000000000
+      internalID: -4167961525936551999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7c2a43aed660140800000000000000
+      internalID: 4685553314998437821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dd30b9624ad7e20800000000000000
+      internalID: 3350014183549951349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_34
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 209
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098336ef6d3c504e0800000000000000
+      internalID: -2015989930020095856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 177
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d049a6a66cf4c80800000000000000
+      internalID: -8336226224882578152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 177
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d6fdf3f2534f010800000000000000
+      internalID: 1221659875975589212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 177
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d39b4bd5b2529e0800000000000000
+      internalID: -1646862407270056608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_38
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 177
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aee6ae412094710800000000000000
+      internalID: 1677874625027959406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 177
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9368b229d97a9e8d0800000000000000
+      internalID: -2816535796739504583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 177
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633b701b31054b710800000000000000
+      internalID: 1708078204184933174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_41
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 177
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84196bdb2a95b0f20800000000000000
+      internalID: 3389901700028862792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_42
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 177
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f501203c4a9cb6c20800000000000000
+      internalID: 3200873669660381279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_43
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 178
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd82ca05fb931070800000000000000
+      internalID: 8075970033555246548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_44
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 178
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d91019dfa271b20800000000000000
+      internalID: 3104997736643140970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 178
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd17d0ed6725040800000000000000
+      internalID: 4634897662598044906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_46
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 178
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0537297244b5580800000000000000
+      internalID: -8837394907033022302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_47
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 177
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a2ddfeb9b989f90800000000000000
+      internalID: -6946631331172504947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_48
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 177
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d7d6b249e0bfa90800000000000000
+      internalID: -7279208343167730417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c83c526392b0c70800000000000000
+      internalID: 8938283197985426442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 144
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dee59d53b7e4ba0800000000000000
+      internalID: -6102804973830083293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 144
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9db5fbe97152e160800000000000000
+      internalID: 7053289550507261342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 144
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1146a3b24cef1b690800000000000000
+      internalID: -7588003778650282991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_53
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 144
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490a6f0aee5d9b360800000000000000
+      internalID: 7186009901325787284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 144
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694c1222286ecf310800000000000000
+      internalID: 1440279427444491414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_55
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 144
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eb3fdff3e1a53d0800000000000000
+      internalID: -3217225723610415482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_56
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 144
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752ad93f83f545980800000000000000
+      internalID: -8551105094259727785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_57
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 144
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ba476d3133316f0800000000000000
+      internalID: -715171755526411481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 147
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0d30b95e233a050800000000000000
+      internalID: 5810543905967689965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_59
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 146
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b177d59a17c36a40800000000000000
+      internalID: 5360346898498023865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_60
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 146
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04e98b123353a7b0800000000000000
+      internalID: -5214232468889410548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 147
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de5f5f49ebe5cba0800000000000000
+      internalID: -6069185535520317742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_62
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 147
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c42daa80c8930730800000000000000
+      internalID: 3964180049743914177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_63
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 144
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71fb73a4d3396c10800000000000000
+      internalID: 2047224493985493371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_64
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 144
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8043591650a705a50800000000000000
+      internalID: 6507835625080960008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_65
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 144
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60855142a75c1b60800000000000000
+      internalID: 7718140215798628463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_66
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 144
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168d883f575b41860800000000000000
+      internalID: 7499818797680351329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_67
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 144
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23749a718262cd440800000000000000
+      internalID: 4961882843092961074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_68
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b786262b9c2c4a110800000000000000
+      internalID: 1271355166362331259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_69
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 144
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4484b97c4626f1ae0800000000000000
+      internalID: -1576433159571290044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e38d0892c4cc640800000000000000
+      internalID: 5101536219042954886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_71
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 111
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb93080c9489b170800000000000000
+      internalID: 8194726802661546934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_72
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 111
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac75e095d12ab160800000000000000
+      internalID: 7041978168489901223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_73
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 111
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c40b6dfb48e4640800000000000000
+      internalID: 5066132590313884731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_74
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 111
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e60e9bdd8fa93a0800000000000000
+      internalID: -6657735467923902943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_75
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 111
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f19d654caf0b0ff0800000000000000
+      internalID: -68944136720510476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_76
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 111
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917c7e2b1be8b5b30800000000000000
+      internalID: 4277169164980307737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_77
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 111
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eb2357d9efb96c0800000000000000
+      internalID: -4135431880580088170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_78
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 111
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7a63d95f5a6580800000000000000
+      internalID: -8833142879730106771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_79
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 111
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a903832f3cbaad0800000000000000
+      internalID: -2689840907331528137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_80
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 111
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3055e1b18e03080800000000000000
+      internalID: -9209606034802015285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 111
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6385251d9e73080800000000000000
+      internalID: -9207633827896740140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_82
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 111
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c45e0c7617db6840800000000000000
+      internalID: 5218501084809417920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_83
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 111
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec8573d44cc3d150800000000000000
+      internalID: 5896280933135650027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d416f41b4becda0800000000000000
+      internalID: -5922597786311635704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_85
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf96509416494190800000000000000
+      internalID: -7977768210775236674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_86
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc84ee74ffda6e180800000000000000
+      internalID: -9086383886238332721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_87
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c952894886473f740800000000000000
+      internalID: 5184615588283557276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_88
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bdff2a9e50b89d0800000000000000
+      internalID: -2771114644696212623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_89
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c19bf370e9ff2a0800000000000000
+      internalID: -6701463966532953007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_90
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d66e2a1568ebd500800000000000000
+      internalID: 422186511017862866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_91
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8dc31d181621d00800000000000000
+      internalID: 941922482262956269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_92
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26a72e4d39f0ad10800000000000000
+      internalID: 2134980265073157675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_93
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d4684a84cb113a0800000000000000
+      internalID: -6696364150739284666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_94
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86ed41ca63be5510800000000000000
+      internalID: 1539865393698301582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961f1e1fc57a6c9b0800000000000000
+      internalID: -5060173113667227287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_96
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db63eb30ad952330800000000000000
+      internalID: 3685525181597707216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_97
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 78
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4def7b36b6892d100800000000000000
+      internalID: 131334926149091028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_98
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac874a6c5f35e95c0800000000000000
+      internalID: -4206832686852704054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_99
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6d7252e1c913c70800000000000000
+      internalID: 8949105587848205997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_100
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f80633f5eb1e9c0800000000000000
+      internalID: -3899626486233002086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_101
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07783ef7232f56c50800000000000000
+      internalID: 6657993922845050736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_102
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e1df594fe8f9b10800000000000000
+      internalID: 1990466741460606507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_103
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd19fa7684e86fe0800000000000000
+      internalID: -1195454434826969610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_104
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 78
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b179b377f588d8b20800000000000000
+      internalID: 3138314458950768411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_105
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 102
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cd66c9c86c821e0800000000000000
+      internalID: -2222308108885631991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b151b56f6b15ce0800000000000000
+      internalID: -1418151238438675595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_107
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5956a3023b30a80800000000000000
+      internalID: -8501754720545303060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_108
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9ef2230a8eb0b60800000000000000
+      internalID: 7713514561536518566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_109
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a821b97237614e920800000000000000
+      internalID: 3018562334086599306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_110
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e570f6344d2d9630800000000000000
+      internalID: 3935351420394436067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_111
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83261dacc696f2da0800000000000000
+      internalID: -5967435065262513608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_112
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b373a36cca051fc0800000000000000
+      internalID: -3524899260386282569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_113
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfabb814f59b9580800000000000000
+      internalID: -8819290569655472206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_114
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a102943d1ef1eb0800000000000000
+      internalID: -4746827184644023709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_115
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723ebf4777f8153a0800000000000000
+      internalID: -6678399029187189977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_116
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6cf811a88b2d510800000000000000
+      internalID: 1572522123045357286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_117
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cb6679b845e3e80800000000000000
+      internalID: -8197021313250444171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_118
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b512d79837ab69b0800000000000000
+      internalID: -5085787492677708365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_119
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a98e4e18c6ba7570800000000000000
+      internalID: 8465279420214446500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_120
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d1daeacbb1cc5f0800000000000000
+      internalID: -735182141969850984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_121
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 34
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e10d6f818c03d50800000000000000
+      internalID: 6715087053955014170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_122
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54ed21af16ff8070800000000000000
+      internalID: 8110972069626111069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_123
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abc25941e1226ef0800000000000000
+      internalID: -116493388876690519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_124
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e55bb6edfd66e6a0800000000000000
+      internalID: -6420323281504872984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_125
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8c0c4f0ef145b00800000000000000
+      internalID: 816312483500312807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_126
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5382557b39144efb0800000000000000
+      internalID: -4619495215083476939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_127
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fadceb1e18569b0800000000000000
+      internalID: -5087517397476331770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_128
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5906317d1750640800000000000000
+      internalID: 5045564126095513054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_129
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5fa53fda25324b0800000000000000
+      internalID: -5466434615632005691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_130
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5b90c30421d3e20800000000000000
+      internalID: 3331839366418511276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_131
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056b6a65bc9175750800000000000000
+      internalID: 6293527365396379216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_132
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfaf1ceefb3fb8a0800000000000000
+      internalID: -6287240588716691494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_133
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfd13218b98f8f90800000000000000
+      internalID: -6949184276337139764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_134
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe6a2f582dc09f00800000000000000
+      internalID: 1121621880494255861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_135
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d361bfc6ef9c2e7b0800000000000000
+      internalID: -5196368925444860355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_136
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6408d0353a5596100800000000000000
+      internalID: 101706626553970758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESMarioLuigi_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49690720a4da03e70800000000000000
+      internalID: 9092958181041149588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
